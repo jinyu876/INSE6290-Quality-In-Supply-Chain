@@ -16,9 +16,9 @@ This repository contains the term project deliverables for **INSE 6290 – Quali
 
 | File | Description |
 |------|-------------|
-| `YUJIN_23753034_INSE6290_PROJECT.pdf` | Final project report (PDF) |
-| `YUJIN_23753034_INSE6290_PROJECT.docx` | Final project report (Word) |
-| `YUJIN_23753034_INSE6290_PROJECT.pptx` | Project presentation slides |
+| `INSE6290_PROJECT.pdf` | Final project report (PDF) |
+| `INSE6290_PROJECT.docx` | Final project report (Word) |
+| `INSE6290_PROJECT.pptx` | Project presentation slides |
 
 ## License
 
